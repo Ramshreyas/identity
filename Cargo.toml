@@ -1,7 +1,7 @@
 [package]
-name = "substrate-module-template"
+name = "identity"
 version = "0.1.0"
-authors = ["Anonymous"]
+authors = ["Ramshreyas Rao"]
 edition = "2018"
 
 [features]
